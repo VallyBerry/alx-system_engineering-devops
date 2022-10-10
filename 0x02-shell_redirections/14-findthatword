@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo grep -r root /etc/passswd
+grep -f root /etc/passswd
